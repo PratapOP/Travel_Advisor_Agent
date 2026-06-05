@@ -1,1 +1,0 @@
-# Define management package
